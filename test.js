@@ -7,3 +7,4 @@ xxx += 2
 const jjj = 0
 
 console.log(jjj+1)
+console.log(jjj+3)
