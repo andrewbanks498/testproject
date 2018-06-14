@@ -1,5 +1,5 @@
-// Changed to 1 from 2
-const xxx = 1
+// changed from 3 to 4
+const xxx = 4
 
 console.log(xxx)
 
@@ -8,5 +8,5 @@ xxx += 2
 const jjj = 0
 
 console.log(jjj+1)
-// changed from 3 to 2
-console.log(jjj+2)
+// changed from 3 to 6
+console.log(jjj+3)
