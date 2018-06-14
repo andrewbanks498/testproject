@@ -6,4 +6,4 @@ xxx += 2
 
 const jjj = 0
 
-console.log(jjj)
+console.log(jjj+1)
