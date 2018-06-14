@@ -2,4 +2,4 @@ const xxx = 2
 
 console.log(xxx)
 
-xxx += 1
+xxx += 2
