@@ -16,3 +16,6 @@ console.log(jjj+4)
 
 // Fix bug2 07-19
 console.log(jjj+6)
+
+// bug fix4
+console.log(jjj+7)
