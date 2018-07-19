@@ -13,3 +13,6 @@ console.log(jjj+3)
 
 // Fix bug 1001
 console.log(jjj+4)
+
+// Fix bug2 07-19
+console.log(jjj+5)
