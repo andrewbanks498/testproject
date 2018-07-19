@@ -15,4 +15,4 @@ console.log(jjj+3)
 console.log(jjj+4)
 
 // Fix bug2 07-19
-console.log(jjj+5)
+console.log(jjj+6)
