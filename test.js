@@ -10,3 +10,6 @@ const jjj = 0
 console.log(jjj+1)
 // changed from 3 to 6
 console.log(jjj+3)
+
+// Fix bug 1001
+console.log(jjj+4)
