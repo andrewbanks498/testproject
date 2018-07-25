@@ -10,3 +10,5 @@ const jjj = 0
 console.log(jjj+1)
 // changed from 3 to 6
 console.log(jjj+3)
+
+console.log('bug8')
