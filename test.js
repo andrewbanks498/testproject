@@ -14,4 +14,3 @@ console.log(jjj+3)
 console.log('bug8')
 
 console.log('dev10')
-console.log('bug10')
